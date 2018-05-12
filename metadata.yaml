@@ -1,0 +1,40 @@
+_repo: Lincoln-s-Inaugurals-Addresses-and-Letters--Selections-_14274
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lincoln, Abraham
+    aliases:
+    - United States President (1861-1865)
+    - Lincoln, Abe
+    birthdate: 1809
+    deathdate: 1865
+    gutenberg_agent_id: '3'
+    url: http://www.gutenberg.org/2009/agents/3
+    wikipedia: http://en.wikipedia.org/wiki/Abraham_Lincoln
+  editor:
+    agent_name: Dodge, Daniel Kilham
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '39554'
+    url: http://www.gutenberg.org/2009/agents/39554
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2004-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14274'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lincoln, Abraham, 1809-1865'
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Correspondence'
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Oratory'
+- !lcsh 'Presidents -- United States -- Inaugural addresses'
+- !lcc 'E456'
+title: Lincoln's Inaugurals, Addresses and Letters (Selections)
+url: http://www.gutenberg.org/ebooks/14274
